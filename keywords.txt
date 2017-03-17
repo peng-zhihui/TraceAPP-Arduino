@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For EEPROM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TraceApp	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+valid	KEYWORD2
+begin	KEYWORD2
+read	KEYWORD2
+routine	KEYWORD2
+valid	KEYWORD2
+getT	KEYWORD2
+getY	KEYWORD2
+getX	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
